@@ -6,8 +6,7 @@
   "scripts": {
     "start": "vite --host",
     "dev": "vite build --watch",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "vite build"
   },
   "author": "",
   "license": "ISC",
