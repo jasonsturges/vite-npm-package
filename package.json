@@ -2,14 +2,17 @@
   "name": "vite-npm-package",
   "version": "1.0.0",
   "description": "Vite JavaScript library npm package template",
-  "main": "index.js",
+  "license": "ISC",
+  "main": "dist/index.cjs.ja",
+  "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "start": "vite --host",
     "dev": "vite build --watch",
     "build": "vite build"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
