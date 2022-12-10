@@ -1,5 +1,6 @@
-# vite-npm-package
-Vite JavaScript library npm package template
+# Vite JavaScript NPM Package
+
+Scaffold JavaScript npm packages using this template to bootstrap your next library.
 
 Versions of this template:
 - [Vite TypeScript library npm package](https://github.com/jasonsturges/vite-typescript-npm-package)
