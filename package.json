@@ -9,7 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "start": "vite --host",
+    "start": "vite --host --open",
     "dev": "vite build --watch",
     "build": "vite build"
   },
