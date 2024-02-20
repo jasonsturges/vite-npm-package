@@ -9,8 +9,8 @@
     "dist"
   ],
   "scripts": {
-    "start": "vite --host --open",
     "dev": "vite build --watch",
+    "start": "vite --host --open",
     "build": "vite build"
   },
   "dependencies": {
